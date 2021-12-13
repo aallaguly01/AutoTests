@@ -9,3 +9,6 @@
 
 ### Logout
 ![logout](https://user-images.githubusercontent.com/57533729/145861303-5cb9cb08-47d1-46c3-b9c1-5380835f68b4.png)
+
+### AutoIT
+![image](https://user-images.githubusercontent.com/57533729/145875370-8faec44c-41db-44aa-847e-ec6ea03508d7.png)
