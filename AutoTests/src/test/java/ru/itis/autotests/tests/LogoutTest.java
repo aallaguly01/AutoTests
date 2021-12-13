@@ -9,9 +9,9 @@ public class LogoutTest extends TestBase {
 
     @Test
     public void logout(){
-        app.getNavigation().openLoginPage();
-        AccountData user = new AccountData("aallaguly01@gmail.com", "B1gather");
-        app.getAuth().login(user);
+//        app.getNavigation().openLoginPage();
+//        AccountData user = new AccountData("aallaguly01@gmail.com", "*");
+//        app.getAuth().login(user);
         app.getNavigation().openHomePage();
         app.getLogout().logout();
     }

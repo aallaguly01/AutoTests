@@ -10,7 +10,7 @@ public class LoginTest extends TestBase{
     @Test
     public void testLogin() throws Exception {
         app.getNavigation().openLoginPage();
-        AccountData user = new AccountData("aallaguly01@gmail.com", "B1gather");
+        AccountData user = new AccountData("aallaguly01@gmail.com", "*");
         app.getAuth().login(user);
     }
 }
